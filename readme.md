@@ -110,4 +110,4 @@ Distributed under the AGPL-3.0 License. See `LICENSE` for more details.
 
 ## Contact
 
-If you have any questions or would like to talk with other Boombox users you can join or <a href="https://discord.gg/invite/HKnyEB9"> Discord server here. </a>
+If you have any questions or would like to talk with other Boombox users you can join or <a href="https://discord.gg/wgFN6V2yuE"> Discord server here. </a>
