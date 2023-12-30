@@ -1,0 +1,18 @@
+{
+  "prefix": "!",
+  "token": "",
+  "inviteLink": "https://discord.com/api/oauth2/authorize?client_id=995422680683655189&permissions=40136535442176&scope=bot",
+  "lavalinkNodes": [
+    {
+      "host": "65.109.58.118",
+      "port": 25812,
+      "password": ""
+    }
+  ],
+  "redisIP": "redis",
+  "redisPort": "6379",
+  "redisPassword": "",
+  "sentryDSN": "",
+  "sentryEnv": "dev",
+  "clientId": "1104625597470228571"
+}
